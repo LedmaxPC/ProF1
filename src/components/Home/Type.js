@@ -10,6 +10,7 @@ function Type() {
           "Freelancer",
           "MERN Stack Developer",
           "Open Source Contributor",
+          "Multisim Designer"          
         ],
         autoStart: true,
         loop: true,
